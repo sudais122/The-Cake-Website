@@ -1,0 +1,99 @@
+#logo{
+    width: 55px;
+    height:55px;
+            }
+            .title-font{
+                font-family: 'Dancing Script', cursive;
+            }
+      
+            
+            .bg-section{
+    background-image: url(./Section-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+            }
+            .btn-styling{
+                width: 200px;
+                margin-top: 20px;
+                background-color: orange;
+                border: none;
+            }
+            /* Nav and more components bg color */
+            .bg-custom-brown{
+                background-color: #9D5939;
+            }
+          .w-title{
+            width: 80%;
+            
+          }
+          .w-subtitle{
+            width: 70%;
+          }
+          /* Section title brownish transparent background */
+            .bg-brown-subtle{
+              background-color: #9d59399f;
+            }
+           .divider{
+            width: 10rem;
+            height: 10px;
+           }
+           .about{
+            background: url(./bg-about.jpg);
+            background-size: cover;
+            background-attachment: fixed;
+            /* position: relative; */
+           }
+           .bg-event{
+            background-image: url(./bg-event.jpg);
+            background-size: cover;
+            background-attachment: fixed;
+           }
+           .btn-outline-warning:hover{
+            color: white;
+           }
+           .location-bg{
+            background: url(./bg-location.jpg);
+            background-size: cover;
+           }
+        .h-pic{
+height: 90px;
+        }
+        .bg-client{
+          background: url(./bg-client-sec.jpg);
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+         .bi{
+          cursor: pointer;
+         } 
+.main-footer{
+  background-image: url(./img1.jpg);
+  background-repeat: no-repeat;
+  background-size: 2536px;
+}
+.pt-3 {
+  padding-top: 3rem!important;
+  padding-left: 1rem!important;
+}
+.nav {
+  --bs-nav-link-padding-x: 1rem;
+  --bs-nav-link-padding-y: 0.5rem;
+  --bs-nav-link-font-weight: ;
+  --bs-nav-link-color: var(--bs-link-color);
+  --bs-nav-link-hover-color: var(--bs-link-hover-color);
+  --bs-nav-link-disabled-color: var(--bs-secondary-color);
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+  list-style: none;
+  margin-top: 15px;
+  margin-left: 21px;
+}
+.mb-2{
+margin-top: 5px;
+}
+.fs-4 {
+  font-size: 1.5rem!important;
+  padding-top: 33px;
+}
